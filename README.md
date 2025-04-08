@@ -38,16 +38,7 @@ Files Included
 3. Connect your mobile app to Bluetooth
 4. Control the same appliances from your phone
 
- How to Run the Project
-
-1. Open [Tinkercad Circuits](https://www.tinkercad.com/)
-2. Import the `.ino` code and build the same circuit
-3. Use MIT App Inventor to import the `.aia` file
-4. Install app on phone using MIT AI2 Companion
-5. Connect via Bluetooth and control devices
-
  Made By
-
 **Khushi Chourasia**  
 (https://www.linkedin.com/in/khushichourasia-2403-/)
 
